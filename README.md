@@ -27,22 +27,22 @@ Users should be able to:
 
 ### Screenshot
 
-![375px ScreenShot code](./screenshot/375px.png)
+![375px ScreenShot code](./screenshots/375px.png)
 
-![1440px ScreenShot code](./screenshot/1440px.png)
+![1440px ScreenShot code](./screenshots/1440px.png)
 
-![HTML code](./screenshot/html.png)
+![HTML code](./screenshots/html.png)
 
-![CSS code](./screenshot/css.png)
+![CSS code](./screenshots/css.png)
 
-![CSS code](./screenshot/css2.png)
+![CSS code](./screenshots/css2.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/Tzienom/Order-Summary-Card)
+- Live Site URL: [](https://tzienomsordersummarycard.netlify.app/)
 
 
 
