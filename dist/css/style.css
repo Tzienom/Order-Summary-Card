@@ -59,6 +59,8 @@ p  {
     font-size: 1.3rem; 
 }
 
+.flex h2  { font-size: 1.6rem; }
+
 .flex img  { padding-right: 1.5em; }
 
 .flex a  {
