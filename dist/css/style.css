@@ -14,7 +14,7 @@ body  {
     align-items: center;
     font-size: 1.6rem;
     line-height: 1.4em;
-    height: 100vh;
+    margin: 1rem auto;
     background: hsl(225, 100%, 94%) url("../images/pattern-background-desktop.svg") no-repeat;
     background-size: contain;
 }
@@ -56,7 +56,7 @@ p  {
 .flex  { 
     display: flex;
     align-items: center;
-    font-size: 1.4rem; 
+    font-size: 1.3rem; 
 }
 
 .flex img  { padding-right: 1.5em; }
