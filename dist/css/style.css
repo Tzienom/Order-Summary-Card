@@ -48,7 +48,7 @@ p  {
 
 .card  {
     max-width: 28.1em;
-    margin: 0 1.7rem;
+    margin: 10em 1.7rem;
     border-radius: 20px;
     background-color: hsl(0, 0%, 100%);
 }

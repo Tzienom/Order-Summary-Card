@@ -27,15 +27,15 @@ Users should be able to:
 
 ### Screenshot
 
-![375px ScreenShot code](./screenshot/375px.jpg)
+![375px ScreenShot code](./screenshot/375px.png)
 
-![1440px ScreenShot code](./screenshot/1440px.jpg)
+![1440px ScreenShot code](./screenshot/1440px.png)
 
-![HTML code](./screenshot/html.jpg)
+![HTML code](./screenshot/html.png)
 
-![CSS code](./screenshot/css.jpg)
+![CSS code](./screenshot/css.png)
 
-![CSS code](./screenshot/css2.jpg)
+![CSS code](./screenshot/css2.png)
 
 
 
